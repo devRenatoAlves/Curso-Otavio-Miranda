@@ -11,4 +11,3 @@
 - ReactJS
 - Postgre
 - NestJS
-- 
