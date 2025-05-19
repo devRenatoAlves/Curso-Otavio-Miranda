@@ -1,4 +1,3 @@
-
 //Arrays
 let numeros: number[] = [1, 2, 3, 4, 5];
 let numeros2: Array<number> = [1, 2, 3, 4, 5];
@@ -17,4 +16,3 @@ function soma(a: number, b: number): number {
 const soma2: (a: number, b: number) => number = function (a, b) {
   return a + b;
 }
-
